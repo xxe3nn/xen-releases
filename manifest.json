@@ -1,7 +1,7 @@
 {
-    "version":  347,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.347.0/xen.exe",
-    "sha256":  "696f564736476b2c255114801337f01953b632d2b4f0cfe51a52e98133248ee8",
+    "version":  349,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.349.0/xen.exe",
+    "sha256":  "13c1178d96d7d9ad75d3e33ae07b368f2210f781ee2b391f39124b103b2eea84",
     "url":  "https://github.com/xen021810/xen-releases/releases/latest",
-    "notes":  "xen now updates itself: when a new version is out, it downloads it while starting, replaces the old exe and restarts."
+    "notes":  "Small update to check that automatic updates work. Nothing else changed."
 }
