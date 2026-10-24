@@ -3,5 +3,5 @@
     "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.359.0/xen.exe",
     "sha256":  "0c682ddbf452f9d99a6d3a62e5981b32eb3ea35b53f880e7782a881c29d525f7",
     "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.359.0",
-    "notes":  "Loadout Swaps: new Test bind (no UL) hotkey per profile, clearer test wording, and loadout clicks now land on the right slots at any resolution (Loadout Swaps and 30K Loads)."
+    "notes":  "Loadout Swaps: new Test bind (no UL) hotkey per profile, clearer test wording, and loadout clicks now land on the right slots at any resolution."
 }
