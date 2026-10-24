@@ -1,7 +1,7 @@
 {
-    "version":  356,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.356.0/xen.exe",
-    "sha256":  "4ddf93debaac1423e372b0963a69758ffbb50cb405dd321856ac2823da1f8923",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.356.0",
-    "notes":  "Update downloads now show their own bar under the loading bar, filled exactly to the download percentage."
+    "version":  357,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.357.0/xen.exe",
+    "sha256":  "291654530bcd7063535ff92d6c6f1f5eea92a9bd718d622dbc4825ed764b56ad",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.357.0",
+    "notes":  "The update download bar now really keeps up with the download percentage."
 }
