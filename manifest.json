@@ -1,7 +1,7 @@
 {
-    "version":  350,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.350.0/xen.exe",
-    "sha256":  "99b105800a4f00bb7a749d08636c630c6c756c4946c21635f2bb821360ae7737",
+    "version":  351,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.351.0/xen.exe",
+    "sha256":  "5985a2cb2b74889118aad8d36f8bd5761a98c475c765a0a83a58a6ae31c9fbdd",
     "url":  "https://github.com/xen021810/xen-releases/releases/latest",
-    "notes":  "Keybind buttons say Press key while waiting. Clearer Binds only work in Destiny option. New Auto-update on startup setting. Changelog section and small UI tweaks."
+    "notes":  "AutoHotkey options moved to the AHK section. Tracker activity list scrollbar no longer runs off the bottom."
 }
