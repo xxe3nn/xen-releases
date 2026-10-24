@@ -1,7 +1,7 @@
 {
-    "version":  354,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.354.0/xen.exe",
-    "sha256":  "7b15627778c457fefa0924cc8d271921259938b2a85d3f6048c4857fafc14c8f",
-    "url":  "https://github.com/xen021810/xen-releases/releases/latest",
-    "notes":  "Overlays land in the right spot on every resolution and Windows scaling, and are positioned by their center. Checkboxes no longer show the background image. Loadout Swaps test macro without port."
+    "version":  355,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.355.0/xen.exe",
+    "sha256":  "6bdc02e15566290439f8c5422ef6259f1d3848e67303a0497bb037cd91f50154",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.355.0",
+    "notes":  "The loading bar now matches the download percentage while an update downloads."
 }
