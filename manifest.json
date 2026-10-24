@@ -1,7 +1,7 @@
 {
-    "version":  349,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.349.0/xen.exe",
-    "sha256":  "13c1178d96d7d9ad75d3e33ae07b368f2210f781ee2b391f39124b103b2eea84",
+    "version":  350,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.350.0/xen.exe",
+    "sha256":  "99b105800a4f00bb7a749d08636c630c6c756c4946c21635f2bb821360ae7737",
     "url":  "https://github.com/xen021810/xen-releases/releases/latest",
-    "notes":  "Small update to check that automatic updates work. Nothing else changed."
+    "notes":  "Keybind buttons say Press key while waiting. Clearer Binds only work in Destiny option. New Auto-update on startup setting. Changelog section and small UI tweaks."
 }
