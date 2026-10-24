@@ -1,7 +1,7 @@
 {
-    "version":  352,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.352.0/xen.exe",
-    "sha256":  "5f8649b48cdcffe03e1362469b5128914be7036d2b5434a6c50780965359997b",
+    "version":  353,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.353.0/xen.exe",
+    "sha256":  "839aabb5394692f6bfa6abba8b607de77f905cffd8e2b3b8d2c10a8ef99c4938",
     "url":  "https://github.com/xen021810/xen-releases/releases/latest",
-    "notes":  "Fixed the AutoHotkey toggles in the AHK section looking squashed."
+    "notes":  "Big performance pass for smoother in-game FPS (overlays, menu background, tracker, packet handling). Multishot is back as a module. Settings save without making the menu stutter."
 }
