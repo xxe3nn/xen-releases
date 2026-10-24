@@ -1,7 +1,7 @@
 {
-    "version":  359,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.359.0/xen.exe",
-    "sha256":  "03ac7d9da1088e4ebcb2be30c874f2c1fc44e1955018f75dc49df8e2ca037680",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.359.0",
-    "notes":  "Loadout Swaps: new Test bind (no UL) hotkey per profile, clearer test wording, and loadout clicks now land on the right slots at any resolution."
+    "version":  360,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.360.0/xen.exe",
+    "sha256":  "3f04ba55941d8271f48040b07c833b918ccad775e05ac63693d74c93588d42e2",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.360.0",
+    "notes":  "Loadout Swaps: new Click calibration (hover loadout 1 and 20, press F8), clicks land on the right slots when Destiny runs fullscreen at a different resolution, custom base resolution now means the resolution Destiny runs at, the Turn on UL checkbox is gone (swaps always use UL), and a debug log at %LocalAppData%\\xen\\logs\\loadout-swaps-debug.txt."
 }
