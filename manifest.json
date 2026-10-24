@@ -1,7 +1,7 @@
 {
-    "version":  353,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.353.0/xen.exe",
-    "sha256":  "839aabb5394692f6bfa6abba8b607de77f905cffd8e2b3b8d2c10a8ef99c4938",
+    "version":  354,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.354.0/xen.exe",
+    "sha256":  "7b15627778c457fefa0924cc8d271921259938b2a85d3f6048c4857fafc14c8f",
     "url":  "https://github.com/xen021810/xen-releases/releases/latest",
-    "notes":  "Big performance pass for smoother in-game FPS (overlays, menu background, tracker, packet handling). Multishot is back as a module. Settings save without making the menu stutter."
+    "notes":  "Overlays land in the right spot on every resolution and Windows scaling, and are positioned by their center. Checkboxes no longer show the background image. Loadout Swaps test macro without port."
 }
