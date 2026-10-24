@@ -1,7 +1,7 @@
 {
-    "version":  357,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.357.0/xen.exe",
-    "sha256":  "291654530bcd7063535ff92d6c6f1f5eea92a9bd718d622dbc4825ed764b56ad",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.357.0",
-    "notes":  "The update download bar now really keeps up with the download percentage."
+    "version":  358,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.358.0/xen.exe",
+    "sha256":  "3a2970094db695f2314cd48b1f5479e73f6da02eb0858640a40eaf33ee7de86c",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.358.0",
+    "notes":  "New setting in Settings \u003e Theme: Full animation quality (no 30 fps cap) runs the background effect smoothly at your full refresh rate like before."
 }
