@@ -1,7 +1,7 @@
 {
-    "version":  360,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.360.0/xen.exe",
-    "sha256":  "3f04ba55941d8271f48040b07c833b918ccad775e05ac63693d74c93588d42e2",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.360.0",
-    "notes":  "Loadout Swaps: new Click calibration (hover loadout 1 and 20, press F8), clicks land on the right slots when Destiny runs fullscreen at a different resolution, custom base resolution now means the resolution Destiny runs at, the Turn on UL checkbox is gone (swaps always use UL), and a debug log at %LocalAppData%\\xen\\logs\\loadout-swaps-debug.txt."
+    "version":  361,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.361.0/xen.exe",
+    "sha256":  "2f902e86c6776190238bb60c0841c7f6e55fb83e89afad6e40daf69ed82416c2",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.361.0",
+    "notes":  "Loadout Swaps: new per-profile Wait after F1 (default 200 ms) and Wait after Left (default 450 ms) settings. Raise them if the macro is faster than your character screen opens."
 }
