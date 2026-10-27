@@ -1,7 +1,7 @@
 {
-    "version":  362,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.362.0/xen.exe",
-    "sha256":  "6880f4d4d8d23ed118421f7bb83b470c7260cf25a7000d83436b6b8e91964ec6",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.362.0",
-    "notes":  "Check now in Settings \u003e Updates no longer installs right away; a Download button appears when a new version is found. Overlay edit mode fixes: clicking an empty spot no longer hides the overlays, the dimmed area covers the whole game window, and the hint sits in the middle of the screen."
+    "version":  363,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.363.0/xen.exe",
+    "sha256":  "aca51a168c19983b3207102fa2a5451b8ddf423a74253a98a93cf2ec63d1e1ee",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.363.0",
+    "notes":  "Fixed Check now in Settings \u003e Updates saying you\u0027re up to date when a new version was already out."
 }
