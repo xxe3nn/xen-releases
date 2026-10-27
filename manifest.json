@@ -1,7 +1,7 @@
 {
-    "version":  361,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.361.0/xen.exe",
-    "sha256":  "2f902e86c6776190238bb60c0841c7f6e55fb83e89afad6e40daf69ed82416c2",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.361.0",
-    "notes":  "Loadout Swaps: new per-profile Wait after F1 (default 200 ms) and Wait after Left (default 450 ms) settings. Raise them if the macro is faster than your character screen opens."
+    "version":  362,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.362.0/xen.exe",
+    "sha256":  "6880f4d4d8d23ed118421f7bb83b470c7260cf25a7000d83436b6b8e91964ec6",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.362.0",
+    "notes":  "Check now in Settings \u003e Updates no longer installs right away; a Download button appears when a new version is found. Overlay edit mode fixes: clicking an empty spot no longer hides the overlays, the dimmed area covers the whole game window, and the hint sits in the middle of the screen."
 }
