@@ -1,7 +1,7 @@
 {
-    "version":  363,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.363.0/xen.exe",
-    "sha256":  "aca51a168c19983b3207102fa2a5451b8ddf423a74253a98a93cf2ec63d1e1ee",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.363.0",
-    "notes":  "Fixed Check now in Settings \u003e Updates saying you\u0027re up to date when a new version was already out."
+    "version":  364,
+    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.364.0/xen.exe",
+    "sha256":  "dd38bddb4951366d1fc506f52f80f9c144b9d1f589b4a81154f7c0b0763731ae",
+    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.364.0",
+    "notes":  "New Statistics tab: total, today, session and last 7 days limit time, a 14-day chart, the time of day you limit most, per-module time, uses, average and longest run, how modules were turned off, and Loadout Swaps counts, run times and the loadouts you use most. Statistics keeps a session history with start time, length, limit time and the module you used most, and you can copy a summary to the clipboard or export everything to a CSV file. Traffic: pick a port above the graph to see only its traffic, hover for the rate, packet count and sizes at that second, and read a new list of the latest packets (size, direction, address and whether they were blocked or held) captured on every port while it's open. Loadout Swaps now clicks the right row on 16:10 and taller resolutions and targets the centered grid on ultrawide, instead of aiming too high or clicking the empty left side."
 }
