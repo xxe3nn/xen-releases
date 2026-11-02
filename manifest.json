@@ -1,7 +1,8 @@
 {
-    "version":  364,
-    "exe":  "https://github.com/xen021810/xen-releases/releases/download/v0.364.0/xen.exe",
-    "sha256":  "dd38bddb4951366d1fc506f52f80f9c144b9d1f589b4a81154f7c0b0763731ae",
-    "url":  "https://github.com/xen021810/xen-releases/releases/tag/v0.364.0",
-    "notes":  "New Statistics tab: total, today, session and last 7 days limit time, a 14-day chart, the time of day you limit most, per-module time, uses, average and longest run, how modules were turned off, and Loadout Swaps counts, run times and the loadouts you use most. Statistics keeps a session history with start time, length, limit time and the module you used most, and you can copy a summary to the clipboard or export everything to a CSV file. Traffic: pick a port above the graph to see only its traffic, hover for the rate, packet count and sizes at that second, and read a new list of the latest packets (size, direction, address and whether they were blocked or held) captured on every port while it's open. Loadout Swaps now clicks the right row on 16:10 and taller resolutions and targets the centered grid on ultrawide, instead of aiming too high or clicking the empty left side."
+    "version":  365,
+    "exe":  "https://xen-tracker-proxy.fly.dev/updates/bridge/v365/xen.exe",
+    "sha256":  "a544524cb8703cfd05686ca63b310b49d50871902ff2746b6c31643dc6f5fbdd",
+    "size":  73040069,
+    "url":  "https://xen-tracker-proxy.fly.dev/updates/bridge/v365/xen.exe",
+    "notes":  "Tracker requests automatically switch to a backup Bungie connection if the main one stops working. Tracker search now gives clearer reasons when the service is unavailable, authentication fails, the internet connection has a problem, or a name cannot be found. Tracker filters are cleaner, better organized and easier to read. The overlay module bar removes unused timer space and expands only while a timer is visible. This update includes a backend change. If something does not work after updating, that change is the cause."
 }
